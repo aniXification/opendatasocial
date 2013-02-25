@@ -1,4 +1,4 @@
-opendatasocial
+Opendata Social
 ==============
 
 Open.undp.org presents UNDP’s 6,000+ development projects and 8,000 outputs in 177 countries and territories worldwide.
